@@ -4,4 +4,4 @@
 Md. Mehrab Hussain Sumon
 
 ## Project Description
-This project is created for practicing Git and GitHub operations including branching, merging, and commits.
+This project is created for practicing Git and GitHub operations including branching, merging, deleting, renaming, and commits.
